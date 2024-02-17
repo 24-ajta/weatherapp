@@ -3,6 +3,7 @@
 # WeatherEase
 
 WeatherEase is a weather application developed using React.
+The project is responsive.
 
 ## Installation
 
